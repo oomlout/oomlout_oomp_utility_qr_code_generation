@@ -1,0 +1,7 @@
+- id: id 
+  web: True    
+- id: md5_6_alpha
+  web: True
+- id: bip_39_word_dash_2
+  web: True
+    
